@@ -1,0 +1,4 @@
+cn\zuo\AuthSpringbootApplication.class
+cn\zuo\web\feign\UserApi.class
+cn\zuo\web\TestController.class
+cn\zuo\web\feign\TestFeign.class
